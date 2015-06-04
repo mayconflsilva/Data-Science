@@ -1,4 +1,5 @@
-# Data-Science
-Data Science repository
+*h2 Data Science Specialization 
 
-This is a trainning part of Coursera course The Data Scientist’s Toolbox
+* Uses R 
+* Nine courses 
+* Goes from raw data to data products
